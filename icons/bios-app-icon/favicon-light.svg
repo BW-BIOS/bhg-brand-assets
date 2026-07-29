@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Light-mode BIOS shield favicon</title>
+  <desc id="desc">Light-mode rounded BIOS favicon using only the top-level navy, white, and slate palette.</desc>
+  <rect width="512" height="512" rx="112" fill="#FFFFFF"/>
+  <g transform="translate(106 77) scale(1.35) translate(-103.75 -249.0)">
+    <path fill="none" stroke="#010E23" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" d="M111 366 V322 Q111 314 119 308 L206 260 Q214 255 222 260 L310 308 Q318 314 318 322 V366"/>
+    <path fill="none" stroke="#607DA3" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" d="M111 392 C145 406 175 402 193 378 C205 361 217 354 230 354 C222 367 225 384 238 394 C256 408 282 408 318 392 V416 Q318 431 305 440 L229 493 Q214 503 199 493 L124 440 Q111 431 111 416 Z"/>
+  </g>
+</svg>

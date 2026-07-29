@@ -1,0 +1,12 @@
+{
+  "top_level_brand": {
+    "navy_mark": "#010E23",
+    "dark_mode_background": "#091124",
+    "slate_wave_and_shield": "#607DA3",
+    "white": "#FFFFFF"
+  },
+  "reference_files": [
+    "dark-mode.png",
+    "light-mode.png"
+  ]
+}
